@@ -1,6 +1,6 @@
 # alpc-challenge
 
-my solution for alpc coding
+my solution for alpc coding challenge
 
 ### `node encode_or_decode.js`
 
