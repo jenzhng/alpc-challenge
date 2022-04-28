@@ -1,7 +1,7 @@
-root: ./docs/
+root: ./
 
 structure:  
-    readme: README.md  
+    readme: ./docs/README.md  
     summary: SUMMARY.md
 
 
